@@ -1,16 +1,62 @@
-# React + Vite
+# React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern landing page built using React.js. This project was created as part of my React.js learning and practice journey.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive landing page
+- Clean and modern UI
+- Reusable React components
+- Responsive design
+- Component-based structure
+- User-friendly layout
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+react-landing-page/
+├── public/
+├── src/
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+📸 Project Preview
+
+Add a screenshot of the project here.
+
+📚 What I Learned
+
+While building this project, I practiced:
+
+React components
+JSX
+JavaScript
+Component-based development
+CSS styling
+Responsive web design
+React project structure
+Vite
+🎯 Purpose
+
+This project was created to improve my React.js skills and gain practical experience by building a real-world style landing page.
+
+👨‍💻 Author
+
+Yashwant Chauhan
+
+GitHub: https://github.com/yashwant427
+LinkedIn: https://www.linkedin.com/in/yashwant-chauhan/
+🙏 Acknowledgement
+
+This project was created for learning and practicing React.js.
